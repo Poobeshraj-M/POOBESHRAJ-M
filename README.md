@@ -74,9 +74,9 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poobeshraj-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poobeshraj-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poobeshraj-M&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poobeshraj-M&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -86,7 +86,7 @@
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Poobeshraj-M&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Poobeshraj-M&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
@@ -235,7 +235,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poobeshraj-M&theme=tokyonight&no-bg=true&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poobeshraj-M&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -271,10 +271,10 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/poobeshraj-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poobeshraj-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poobeshraj-M)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Poobeshraj/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poobeshraj.m@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poobeshrajmurugesan0509@gmail.com)
 
 </div>
 
